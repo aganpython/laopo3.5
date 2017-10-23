@@ -9,8 +9,10 @@
       <sourceFolder url="file://$MODULE_DIR$/numpy" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/python" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/pandas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python/Error&amp;Exception" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python/Class&amp;Object" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.5.0rc4 (/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
