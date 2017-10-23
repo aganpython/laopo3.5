@@ -3,7 +3,6 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/t_matplot" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/read_sql$to_sql" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Test" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/numpy" isTestSource="false" />
@@ -11,6 +10,8 @@
       <sourceFolder url="file://$MODULE_DIR$/pandas" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/python/Error&amp;Exception" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/python/Class&amp;Object" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/matplot" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/T_matplot" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.5.0rc4 (/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
