@@ -18,4 +18,5 @@ class FlyFish(Bird, Fish):
 
 ff = FlyFish()
 ff.fly()
+
 ff.swim()
