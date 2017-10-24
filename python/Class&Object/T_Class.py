@@ -4,7 +4,7 @@
 # 对象是具体的、是类的一个实例
 
 
-#1 实例人骑车
+# 1 实例人骑车
 # class Person(object):
 #     def ride(self,b):
 #         b.run()
@@ -40,6 +40,7 @@ class Person(object):
     def __init__(self,pid,name):
         self.pid = pid
         self.name = name
+
 p = Person(100,'agan')
 
 print(p.pid,p.name)
