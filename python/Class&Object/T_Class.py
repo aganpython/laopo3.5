@@ -18,7 +18,7 @@
 #
 # tom.ride(b)
 
-#2
+# 2
 # class ClassName(object):
 #     属性定义
 #     方法定义
@@ -34,13 +34,14 @@
 # a.eat()
 # a.drink()
 
-#3
+# 3
 
 class Person(object):
-    def __init__(self,pid,name):
+    def __init__(self, pid, name):
         self.pid = pid
         self.name = name
 
-p = Person(100,'agan')
 
-print(p.pid,p.name)
+p = Person(100, 'agan')
+
+print(p.pid, p.name)

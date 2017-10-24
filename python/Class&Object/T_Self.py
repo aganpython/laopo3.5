@@ -28,16 +28,18 @@
 # print(id(p1))
 # p1.say_hello('agan')
 
-#3 self 一般用来指定同名的实例变量与参数
+# 3 self 一般用来指定同名的实例变量与参数
 class Animal(object):
-    def eat(this,milk):
+    def eat(this, milk):
         this.milk = milk
+
+
 a = Animal()
 a.eat('milk')
 
-#4 self 一般用来指定同名的实例变量与参数
-#self.milk 表示实例变量
-#milk 表示参数
+# 4 self 一般用来指定同名的实例变量与参数
+# self.milk 表示实例变量
+# milk 表示参数
 # class Animal(object):
 #     def eat(self,milk):
 #         self.milk = milk
