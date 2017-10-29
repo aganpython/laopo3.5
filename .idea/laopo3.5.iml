@@ -11,6 +11,8 @@
       <sourceFolder url="file://$MODULE_DIR$/python/Error&amp;Exception" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/python/Class&amp;Object" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/matplot" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python/Thread" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python/Thread&amp;Threading" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/T_matplot" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.5.0rc4 (/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5)" jdkType="Python SDK" />
